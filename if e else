@@ -1,0 +1,12 @@
+ if expressao:
+ comandos
+ if expressao:
+ comandos1
+else:
+ comandos2
+ if expressao1:
+ comandos1
+elif expressao2:
+ comandos2
+else:
+ comandos(N)
